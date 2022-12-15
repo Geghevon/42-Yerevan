@@ -1,0 +1,5 @@
+Credentials cache: API:0CED44B0-EB69-4157-B151-A974C4CFCA06
+        Principal: geghevon@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Feb  8 19:53:28 2022  Feb  9 05:53:13 2022  krbtgt/42YEREVAN.AM@42YEREVAN.AM
